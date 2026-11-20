@@ -1,0 +1,183 @@
+[
+  {
+    "date": "2025-02-13",
+    "label": "Manifestation nationale",
+    "lieu": "Bruxelles",
+    "police": 60000,
+    "organisateurs": 100000,
+    "note": "Première grande manifestation contre l'accord de gouvernement.",
+    "src": [
+      "alencontre"
+    ]
+  },
+  {
+    "date": "2025-03-31",
+    "label": "Grève générale",
+    "lieu": "Belgique",
+    "note": "Grève interprofessionnelle nationale.",
+    "src": [
+      "alencontre"
+    ]
+  },
+  {
+    "date": "2025-06-23",
+    "label": "Manifestation nationale",
+    "lieu": "Bruxelles",
+    "src": [
+      "alencontre"
+    ]
+  },
+  {
+    "date": "2025-10-14",
+    "label": "Manifestation nationale",
+    "lieu": "Bruxelles",
+    "src": [
+      "alencontre"
+    ]
+  },
+  {
+    "date": "2025-11-24",
+    "label": "Trois jours de grève (24–26 nov.)",
+    "lieu": "Belgique",
+    "note": "Rail, services publics, puis tous secteurs. L'accord budgétaire 2026 est conclu le 24 novembre, premier jour de grève.",
+    "src": [
+      "alencontre",
+      "lavenir-budget-roi"
+    ],
+    "dateLabel": "24–26 nov. 2025"
+  },
+  {
+    "date": "2026-02-10",
+    "label": "Grèves tournantes par province (10–12 fév.)",
+    "lieu": "Provinces",
+    "src": [
+      "alencontre"
+    ],
+    "dateLabel": "10–12 fév. 2026"
+  },
+  {
+    "date": "2026-03-12",
+    "label": "Manifestation nationale",
+    "lieu": "Bruxelles",
+    "police": 80000,
+    "organisateurs": 100000,
+    "note": "Plus de 100 000 selon la FGTB ; une cinquantaine d'arrestations administratives.",
+    "src": [
+      "rtbf-12mars"
+    ]
+  },
+  {
+    "date": "2026-04-15",
+    "label": "Grève des postiers (avril–mai, plus de cinq semaines)",
+    "lieu": "bpost",
+    "src": [
+      "alencontre"
+    ],
+    "dateLabel": "avril–mai 2026"
+  },
+  {
+    "date": "2026-05-12",
+    "label": "Manifestation nationale",
+    "lieu": "Bruxelles",
+    "police": 40000,
+    "note": "Sixième manifestation nationale contre la politique du gouvernement, selon la VRT.",
+    "src": [
+      "vrt-12mei",
+      "vrt-12mei-bilan"
+    ]
+  },
+  {
+    "date": "2026-09-24",
+    "label": "Journée d'action",
+    "lieu": "Belgique",
+    "src": [
+      "alencontre"
+    ]
+  },
+  {
+    "date": "2026-10-01",
+    "label": "Début du mouvement lycéen",
+    "lieu": "Fédération Wallonie-Bruxelles",
+    "src": [
+      "lalibre-9oct"
+    ],
+    "dateLabel": "à partir du 1er oct. 2026"
+  },
+  {
+    "date": "2026-10-09",
+    "label": "Manifestation nationale",
+    "lieu": "Bruxelles",
+    "police": 30000,
+    "organisateurs": 50000,
+    "note": "Sans Synova. Débordements en marge du cortège : plus de 100 arrestations.",
+    "src": [
+      "rtbf-9oct",
+      "bruzz-verspreid"
+    ]
+  },
+  {
+    "date": "2026-10-11",
+    "label": "Marche pour le climat",
+    "lieu": "Bruxelles",
+    "src": [
+      "alencontre"
+    ]
+  },
+  {
+    "date": "2026-10-17",
+    "label": "Manifestation étudiante",
+    "lieu": "Bruxelles",
+    "src": [
+      "alencontre"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "label": "Manifestation étudiante FEF + VVS",
+    "lieu": "Bruxelles",
+    "note": "Jusqu'à 10 000 participants attendus. Première participation de l'organisation étudiante flamande VVS aux côtés de la FEF.",
+    "src": [
+      "bruzz-studenten",
+      "dwm-interview"
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "label": "Pouvoirs locaux wallons",
+    "lieu": "Namur",
+    "src": [
+      "lalibre-namur"
+    ]
+  },
+  {
+    "date": "2026-11-23",
+    "label": "Manifestation nationale en front commun",
+    "lieu": "Bruxelles",
+    "aVenir": true,
+    "note": "Chiffres à confirmer après l'événement.",
+    "src": [
+      "csc-appel",
+      "fgtb-appel",
+      "synova-appel"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "label": "Journée « VUURWERK » du secteur socioculturel",
+    "lieu": "Flandre",
+    "aVenir": true,
+    "src": [
+      "sociare",
+      "dwm-interview"
+    ]
+  },
+  {
+    "date": "2026-12-10",
+    "label": "Manifestation du non-marchand",
+    "lieu": "Bruxelles",
+    "aVenir": true,
+    "src": [
+      "bx1-mobilisation"
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "_comment": "Fichier à compléter après le 23 novembre. Chaque valeur null s'affiche « en attente » sur la page /apres/. Ajoutez les sources dans sources.json et référencez-les par leur id.",
+  "publie": false,
+  "maj": null,
+  "indicateurs": [
+    { "id": "affluence-police", "label": "Affluence selon la police", "valeur": null, "reference": "9 oct. : 30 000 · 12 mars : 80 000", "src": [] },
+    { "id": "affluence-organisateurs", "label": "Affluence selon les organisateurs", "valeur": null, "reference": "9 oct. : 50 000 · 12 mars : > 100 000", "src": [] },
+    { "id": "incidents", "label": "Incidents et arrestations", "valeur": null, "reference": "9 oct. : > 100 arrestations", "src": [] },
+    { "id": "palais", "label": "Issue de l'audience au Palais", "valeur": null, "reference": "Rapport du Premier ministre attendu le 23 nov.", "src": [] },
+    { "id": "budget", "label": "Accord budgétaire ?", "valeur": null, "reference": "En 2025, accord conclu au premier jour de grève (24 nov.)", "src": [] },
+    { "id": "lignes-rouges", "label": "Lignes rouges franchies ? (index, jours fériés, TVA, annualisation)", "valeur": null, "reference": "Conditionne le mandat de grève générale de la FGTB", "src": [] },
+    { "id": "suite-syndicale", "label": "Suite annoncée par le front commun", "valeur": null, "reference": "Vermorgen évoque des « actions plus dures »", "src": [] }
+  ]
+}

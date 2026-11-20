@@ -1,0 +1,13 @@
+---
+title: "Lexique"
+kicker: "Comprendre les mots du débat"
+description: "Lexique de la manifestation du 23 novembre 2026 : front commun, préavis de grève, indexation, centenindex, kern, douzièmes provisoires, Plan B, cadrage médiatique…"
+lede: "Les notions qui reviennent dans les débats, les communiqués et les articles, expliquées simplement."
+next: ["/sources/", "Toutes les sources"]
+---
+<dl class="deflist">
+{%- for t in lexique | sort(false, false, "terme") %}
+  <dt id="{{ t.terme | slugify }}">{{ t.terme }}</dt>
+  <dd>{{ t.def }}</dd>
+{%- endfor %}
+</dl>

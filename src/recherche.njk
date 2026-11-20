@@ -1,0 +1,17 @@
+---
+title: "Rechercher dans le dossier"
+kicker: "Recherche"
+description: "Recherche plein texte dans le dossier (exécutée dans votre navigateur)."
+noindex: true
+---
+<div id="search" class="search-ui"></div>
+<noscript><p>La recherche nécessite JavaScript. Vous pouvez aussi parcourir le <a href="/lexique/">lexique</a> ou les <a href="/sources/">sources</a>.</p></noscript>
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css">
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener("DOMContentLoaded", function () {
+    if (!window.PagefindUI) { document.getElementById("search").textContent = "L'index de recherche est généré lors du build (npm run build)."; return; }
+    new PagefindUI({ element: "#search", baseUrl: "{{ '/' | url }}", showSubResults: true, showImages: false,
+      translations: { placeholder: "Rechercher (ex. Plan B, Vooruit, STIB…)", zero_results: "Aucun résultat pour [SEARCH_TERM]" } });
+  });
+</script>

@@ -1,0 +1,27 @@
+{
+  "name": "manifestation-23-novembre-2026",
+  "version": "1.0.0",
+  "description": "Dossier documentaire : manifestation nationale du 23 novembre 2026 à Bruxelles",
+  "scripts": {
+    "build": "eleventy && pagefind --site _site",
+    "serve": "eleventy --serve",
+    "clean": "rm -rf _site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouaisfieu/manifestation.git"
+  },
+  "author": "Claude (Anthropic)",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/ouaisfieu/manifestation/issues"
+  },
+  "homepage": "https://github.com/ouaisfieu/manifestation#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.8",
+    "markdown-it": "^14.3.3",
+    "markdown-it-attrs": "^5.0.1",
+    "pagefind": "^1.6.0"
+  },
+  "private": true
+}

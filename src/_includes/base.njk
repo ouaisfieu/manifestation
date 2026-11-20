@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="{{ lang or site.lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if title and page.url != "/" %}{{ title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ description or site.description }}">
+  <meta name="author" content="{{ site.author }}">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#f5f1ea" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#14130f" media="(prefers-color-scheme: dark)">
+  <link rel="canonical" href="{{ page.url | absUrl(site.url) }}">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:title" content="{{ title or site.title }}">
+  <meta property="og:description" content="{{ description or site.description }}">
+  <meta property="og:url" content="{{ page.url | absUrl(site.url) }}">
+  <meta property="og:image" content="{{ '/assets/img/og.png' | absUrl(site.url) }}">
+  <meta property="og:locale" content="{{ (lang or site.lang) | replace('-', '_') }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }} — mises à jour" href="/feed.xml">
+  <link rel="alternate" hreflang="fr" href="{{ '/' | absUrl(site.url) }}">
+  <link rel="alternate" hreflang="nl" href="{{ '/nl/' | absUrl(site.url) }}">
+  <link rel="alternate" hreflang="en" href="{{ '/en/' | absUrl(site.url) }}">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <script>try{var t=localStorage.getItem("theme");if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+  <script src="/assets/js/app.js" defer></script>
+  <script type="application/ld+json">{
+    "@context":"https://schema.org","@type":"{% if page.url == '/' %}WebSite{% else %}Article{% endif %}",
+    "headline":{{ (title or site.title) | dump | safe }},
+    "description":{{ (description or site.description) | dump | safe }},
+    "inLanguage":"{{ lang or site.lang }}",
+    "author":{"@type":"Organization","name":"Claude (Anthropic)"},
+    "dateModified":"{{ site.updated }}",
+    "license":"https://creativecommons.org/licenses/by-sa/4.0/",
+    "about":{"@type":"Event","name":"Manifestation nationale en front commun","startDate":"{{ site.event.start }}","endDate":"{{ site.event.end }}","eventStatus":"https://schema.org/EventScheduled","location":{"@type":"Place","name":"Bruxelles — gare du Nord → gare du Midi","address":"Bruxelles, Belgique"}}
+  }</script>
+</head>
+{%- set L = {
+  "nl": { by: "Door", upd: "Bijgewerkt op", date: "20 november 2026", toc: "Op deze pagina", next: "Lees verder", read: "Leestijd" },
+  "en": { by: "By", upd: "Updated", date: "20 November 2026", toc: "On this page", next: "Read next", read: "Reading time" }
+}[lang] or { by: "Par", upd: "Mis à jour le", date: "20 novembre 2026", toc: "Sur cette page", next: "Lire ensuite", read: "Lecture" } %}
+<body class="page-{{ bodyClass or 'default' }}">
+  <a class="skip" href="#contenu">{{ "Naar de inhoud" if lang == "nl" else ("Skip to content" if lang == "en" else "Aller au contenu") }}</a>
+  <div class="statusbar" role="status">
+    <div class="wrap statusbar__inner">
+      <span class="statusbar__dot" aria-hidden="true"></span>
+      <span>État des connaissances au <time datetime="{{ site.updated }}">20 novembre 2026</time>.</span>
+      <span class="statusbar__count" data-countdown="{{ site.event.start }}" data-done-url="{{ '/apres/' | absUrl(site.url) }}">Lundi 23 novembre, 10h — gare du Nord</span>
+    </div>
+  </div>
+  <header class="masthead">
+    <div class="wrap masthead__inner">
+      <a class="brand" href="/" aria-label="{{ site.title }} — accueil">
+        <span class="brand__mark" aria-hidden="true">23<span>·</span>11</span>
+        <span class="brand__text"><strong>Le dossier</strong><small>Manifestation nationale · Bruxelles 2026</small></span>
+      </a>
+      <div class="masthead__tools">
+        <a class="tool" href="/recherche/" aria-label="Rechercher"><svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></a>
+        <button class="tool" type="button" data-theme-toggle aria-label="Changer de thème (clair/sombre)"><svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20"><path d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9Z" fill="currentColor"/></svg></button>
+        <nav class="langs" aria-label="Langues"><a href="/" {% if not lang or lang == 'fr-BE' %}aria-current="true"{% endif %}>FR</a><a href="/nl/" hreflang="nl" {% if lang == 'nl' %}aria-current="true"{% endif %}>NL</a><a href="/en/" hreflang="en" {% if lang == 'en' %}aria-current="true"{% endif %}>EN</a></nav>
+      </div>
+    </div>
+    <nav class="mainnav" aria-label="Sections du dossier">
+      <ul class="wrap">
+        {% for item in site.nav %}
+        <li><a href="{{ item.url }}" {% if page.url.startsWith(item.url) %}aria-current="page"{% endif %}>{{ item.label }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </header>
+
+  <main id="contenu" tabindex="-1">
+    {% if layoutHero %}{{ content | safe }}{% else %}
+    <article class="wrap article" {% if not noindex %}data-pagefind-body{% endif %}>
+      <header class="article__head">
+        {% if kicker %}<p class="kicker">{{ kicker }}</p>{% endif %}
+        <h1>{{ title }}</h1>
+        {% if lede %}<p class="lede">{{ lede | safe }}</p>{% endif %}
+        <p class="byline">{{ L.by }} <a href="/methode/">Claude</a> (IA, Anthropic) · {{ L.upd }} <time datetime="{{ site.updated }}">{{ L.date }}</time>{% if readingTime %} · {{ L.read }} : {{ readingTime }}{% endif %}</p>
+      </header>
+      {% if toc %}
+      <nav class="toc" aria-label="Sommaire de la page">
+        <p class="toc__title">{{ L.toc }}</p>
+        <ol>{% for t in toc %}<li><a href="#{{ t[0] }}">{{ t[1] }}</a></li>{% endfor %}</ol>
+      </nav>
+      {% endif %}
+      <div class="prose">
+        {{ content | safe }}
+      </div>
+      {% if next %}
+      <nav class="pager" aria-label="Page suivante">
+        <a href="{{ next[0] }}"><small>{{ L.next }}</small><span>{{ next[1] }} →</span></a>
+      </nav>
+      {% endif %}
+    </article>
+    {% endif %}
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer__grid">
+      <div>
+        <p class="footer__brand">23·11 — Le dossier</p>
+        <p>Un dossier documentaire indépendant, sourcé et ouvert. {{ site.authorNote }} Il n'est affilié à aucun syndicat, parti ou organisation patronale.</p>
+        <p>Pour mobiliser plutôt que documenter : <a href="{{ site.related.url }}">{{ site.related.name }}</a>.</p>
+      </div>
+      <div>
+        <p class="footer__h">Le dossier</p>
+        <ul>
+          <li><a href="/contexte/">Contexte politique</a></li>
+          <li><a href="/acteurs/">Acteurs</a></li>
+          <li><a href="/revendications/">Revendications & chiffres</a></li>
+          <li><a href="/medias/">Analyse médiatique</a></li>
+          <li><a href="/lexique/">Lexique</a></li>
+        </ul>
+      </div>
+      <div>
+        <p class="footer__h">Données ouvertes</p>
+        <ul>
+          <li><a href="/sources/">Toutes les sources</a></li>
+          <li><a href="/donnees/">API JSON & téléchargements</a></li>
+          <li><a href="/agenda.ics">Agenda (.ics)</a></li>
+          <li><a href="/feed.xml">Flux des mises à jour</a></li>
+        </ul>
+      </div>
+      <div>
+        <p class="footer__h">Transparence</p>
+        <ul>
+          <li><a href="/methode/">Méthode, auteur & limites</a></li>
+          <li><a href="{{ site.repo }}/issues">Signaler une erreur</a></li>
+          <li><a href="{{ site.repo }}">Code source</a></li>
+        </ul>
+        <p class="small">Textes : <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr">CC BY-SA 4.0</a>. Code : MIT. Aucun traceur, aucun cookie.</p>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

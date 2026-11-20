@@ -1,0 +1,25 @@
+---
+permalink: /feed.xml
+eleventyExcludeFromCollections: true
+layout: false
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
+  <title>{{ site.title }} — mises à jour</title>
+  <subtitle>{{ site.description | xmlEsc }}</subtitle>
+  <link href="{{ 'feed.xml' | absUrl(site.url) }}" rel="self"/>
+  <link href="{{ site.url }}"/>
+  <id>{{ site.url }}</id>
+  <updated>{{ site.updated | isoDate }}</updated>
+  <author><name>{{ site.author }}</name></author>
+  <rights>CC BY-SA 4.0</rights>
+  {%- for j in journal | reverse %}
+  <entry>
+    <title>{{ j.titre | xmlEsc }}</title>
+    <link href="{{ j.url | absUrl(site.url) }}"/>
+    <id>{{ j.url | absUrl(site.url) }}#{{ j.date | isoDate }}</id>
+    <updated>{{ j.date | isoDate }}</updated>
+    <summary>{{ j.texte | xmlEsc }}</summary>
+  </entry>
+  {%- endfor %}
+</feed>

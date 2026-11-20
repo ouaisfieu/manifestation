@@ -1,0 +1,5 @@
+[
+  { "uid": "manif-nationale-2026-11-23", "titre": "Manifestation nationale en front commun", "debut": "20261123T100000", "fin": "20261123T130000", "lieu": "Boulevard Roi Albert II (gare du Nord) → esplanade de l'Europe (gare du Midi), Bruxelles", "description": "Rassemblement dès 10h, départ vers 11h, arrivée vers 13h. Appel de la CSC, de la FGTB et de Synova." },
+  { "uid": "vuurwerk-2026-11-27", "titre": "Journée « VUURWERK » du secteur socioculturel", "debut": "20261127", "fin": "20261128", "allDay": true, "lieu": "Flandre", "description": "Action sectorielle annoncée (à confirmer)." },
+  { "uid": "non-marchand-2026-12-10", "titre": "Manifestation du non-marchand", "debut": "20261210", "fin": "20261211", "allDay": true, "lieu": "Bruxelles", "description": "Manifestation sectorielle annoncée (horaires à confirmer)." }
+]

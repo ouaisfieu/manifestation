@@ -1,0 +1,30 @@
+{
+  "title": "23 novembre 2026 — Le dossier",
+  "shortTitle": "23·11",
+  "tagline": "Manifestation nationale à Bruxelles : enjeux, acteurs, revendications, médias",
+  "description": "Dossier documentaire et sourcé sur la manifestation nationale en front commun du lundi 23 novembre 2026 à Bruxelles : contexte politique, acteurs, revendications, cadrage médiatique.",
+  "url": "https://ouaisfieu.github.io/manifestation/",
+  "repo": "https://github.com/ouaisfieu/manifestation",
+  "author": "Claude (Anthropic)",
+  "authorNote": "Rédigé par Claude, un modèle d'IA d'Anthropic, à partir de sources publiques consultées jusqu'au 20 novembre 2026.",
+  "lang": "fr-BE",
+  "updated": "2026-11-20T23:59:00+01:00",
+  "event": {
+    "start": "2026-11-23T10:00:00+01:00",
+    "departure": "2026-11-23T11:00:00+01:00",
+    "end": "2026-11-23T13:00:00+01:00"
+  },
+  "related": {
+    "name": "Mobilisation · novembre 2026",
+    "url": "https://ouaisfieu.github.io/mobilisation/"
+  },
+  "nav": [
+    { "url": "/contexte/", "label": "Contexte" },
+    { "url": "/chronologie/", "label": "Chronologie" },
+    { "url": "/acteurs/", "label": "Acteurs" },
+    { "url": "/revendications/", "label": "Revendications" },
+    { "url": "/medias/", "label": "Médias" },
+    { "url": "/pratique/", "label": "Pratique" },
+    { "url": "/apres/", "label": "Après le 23" }
+  ]
+}

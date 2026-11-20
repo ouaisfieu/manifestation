@@ -1,0 +1,3 @@
+media;langue;date_publication;url;titre;type_media;angle_dominant;lien_rue_palais;distinction_manif_greve;affluence_citee;source_affluence;voix_syndicat;voix_gouvernement;voix_patronat;voix_manifestant;voix_expert;chiffres_budgetaires_cites;chiffres_verifies;incidents_mentionnes;notes
+# angle_dominant: perturbations | crise_politique | revendications | ordre_public | economie;;;;;;;;;;;;;;;;;;;
+# booléens: oui | non | partiel;;;;;;;;;;;;;;;;;;;

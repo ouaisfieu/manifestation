@@ -1,0 +1,19 @@
+---
+title: "Sources"
+kicker: "Toutes les références"
+description: "Liste complète des sources utilisées dans le dossier sur la manifestation du 23 novembre 2026, classées par type : officielles, syndicales, patronales, partisanes, presse, alternatives."
+lede: "Toutes les affirmations du dossier renvoient à l'une de ces sources. Le type de chaque source est indiqué, car un communiqué syndical, un texte patronal et un article de presse n'ont pas le même statut."
+---
+{% set types = { "officiel": "Officielle", "syndical": "Syndicale", "patronal": "Patronale", "partisan": "Partisane", "associatif": "Associative", "presse": "Presse", "alternatif": "Média alternatif / militant", "pratique": "Guide pratique / RH", "reference": "Référence" } %}
+{% set langs = { "fr": "FR", "nl": "NL", "en": "EN" } %}
+<div class="filters" data-filter-group="#liste-sources" data-filter-live="#sources-live" hidden role="group" aria-label="Filtrer par type de source">
+<button type="button" data-filter="all" aria-pressed="true">Toutes ({{ sources.length }})</button>
+{%- for k, v in types %}<button type="button" data-filter="{{ k }}" aria-pressed="false">{{ v }} ({{ (sources | where("type", k)).length }})</button>{% endfor %}
+</div>
+<p id="sources-live" class="visually-hidden" aria-live="polite"></p>
+<ol class="sources-list" id="liste-sources">
+{%- for s in sources %}
+<li id="{{ s.id }}" data-cat="{{ s.type }}"><span class="n">{{ loop.index }}</span><div><span class="t"><a href="{{ s.url }}" rel="noopener external">{{ s.title }}</a></span><br><span class="m"><span class="tag">{{ types[s.type] }}</span><span class="tag">{{ langs[s.lang] }}</span>{{ s.publisher }} · {{ s.date }}</span></div></li>
+{%- endfor %}
+</ol>
+<p class="small">Liens relevés lors de la recherche (jusqu’au 20 novembre 2026). Certains articles peuvent être payants ou avoir changé d’adresse depuis. Une version JSON de cette liste est disponible : <a href="/api/sources.json">/api/sources.json</a>.</p>

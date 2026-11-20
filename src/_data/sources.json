@@ -1,0 +1,983 @@
+[
+ {
+  "id": "csc-appel",
+  "publisher": "CSC",
+  "title": "Nous ne subirons pas l'avenir, nous le construisons ensemble. Rendez-vous le 23 novembre à Bruxelles",
+  "url": "https://www.lacsc.be/actualite/actualites-et-communiques-de-presse/newsdetail/2026/10/21/nous-ne-subirons-pas-l-avenir--nous-le-construisons-ensemble--rendez-vous-le-23-novembre-a-bruxelles",
+  "date": "2026-10-21",
+  "lang": "fr",
+  "type": "syndical"
+ },
+ {
+  "id": "fgtb-appel",
+  "publisher": "FGTB",
+  "title": "23 novembre : construire l'avenir ensemble !",
+  "url": "https://fgtb.be/actualite/23-novembre-construire-lavenir-ensemble",
+  "date": "2026-10",
+  "lang": "fr",
+  "type": "syndical"
+ },
+ {
+  "id": "abvv-appel",
+  "publisher": "ABVV",
+  "title": "23 november: samen bouwen aan een betere toekomst!",
+  "url": "https://abvv.be/nieuws/23-november-samen-bouwen-aan-een-betere-toekomst",
+  "date": "2026-10",
+  "lang": "nl",
+  "type": "syndical"
+ },
+ {
+  "id": "synova-appel",
+  "publisher": "Synova",
+  "title": "Mobilisation citoyenne le 23 novembre à Bruxelles",
+  "url": "https://www.synova.be/fr/nieuws-info/mobilisation-citoyenne-23-novembre-bruxelles",
+  "date": "2026-10-21",
+  "lang": "fr",
+  "type": "syndical"
+ },
+ {
+  "id": "synova-methode",
+  "publisher": "Synova",
+  "title": "Accord budgétaire : autre approche demandée à De Wever",
+  "url": "https://www.synova.be/fr/actualites-et-informations/accord-budgetaire-autre-approche-de-wever",
+  "date": "2026-11",
+  "lang": "fr",
+  "type": "syndical"
+ },
+ {
+  "id": "synova-ecocheques",
+  "publisher": "Synova",
+  "title": "Supprimer les écochèques ? Synova dit non",
+  "url": "https://www.synova.be/fr/actualites-et-informations/supprimer-les-ecocheques-synova-dit-non",
+  "date": "2026-11",
+  "lang": "fr",
+  "type": "syndical"
+ },
+ {
+  "id": "synova-nom",
+  "publisher": "Synova / CGSLB",
+  "title": "La CGSLB s'appelle désormais Synova",
+  "url": "https://www.cgslb.be/",
+  "date": "2026-05-30",
+  "lang": "fr",
+  "type": "syndical"
+ },
+ {
+  "id": "fgtb-planb",
+  "publisher": "FGTB",
+  "title": "Plan B : 11 propositions pour assainir le budget sans faire payer…",
+  "url": "https://fgtb.be/Plan-B",
+  "date": "2026",
+  "lang": "fr",
+  "type": "syndical"
+ },
+ {
+  "id": "fgtb-actions",
+  "publisher": "FGTB",
+  "title": "Actions syndicales",
+  "url": "https://fgtb.be/actions-syndicales",
+  "date": "2026-09-11",
+  "lang": "fr",
+  "type": "syndical"
+ },
+ {
+  "id": "accg",
+  "publisher": "ACCG",
+  "title": "Manifestation nationale du 23 novembre : pourquoi participer ?",
+  "url": "https://www.accg.be/fr/article/manifestation-nationale-du-23-novembre-pourquoi-participer",
+  "date": "2026-11",
+  "lang": "fr",
+  "type": "syndical"
+ },
+ {
+  "id": "fgtb-lux",
+  "publisher": "FGTB Luxembourg",
+  "title": "Manif nationale le 23 novembre !",
+  "url": "https://fgtb-luxembourg.be/5898/manif-nationale-le-23-novembre/",
+  "date": "2026-11",
+  "lang": "fr",
+  "type": "syndical"
+ },
+ {
+  "id": "acv-coc",
+  "publisher": "ACV-COC",
+  "title": "Nationale betoging op maandag 23 november – COC doet mee!",
+  "url": "https://www.hetacv.be/acv-coc/nieuws-en-persberichten/2026/10/30/nationale-betoging-op-maandag-23-november---coc-doet-mee",
+  "date": "2026-10-30",
+  "lang": "nl",
+  "type": "syndical"
+ },
+ {
+  "id": "acv-cov",
+  "publisher": "ACV-COV",
+  "title": "Nationale betoging op maandag 23 november: het COV doet mee!",
+  "url": "https://www.hetacv.be/acv-cov/actualiteit/2026/10/30/nationale-betoging-op-maandag-23-november--het-cov-doet-mee",
+  "date": "2026-10-30",
+  "lang": "nl",
+  "type": "syndical"
+ },
+ {
+  "id": "csc-metea",
+  "publisher": "CSC METEA",
+  "title": "Manifestation nationale 23 novembre",
+  "url": "https://www.lacsc.be/acv-csc-metea/actualites/2026/11/20/manifestation-nationale-23-novembre",
+  "date": "2026-11-20",
+  "lang": "fr",
+  "type": "syndical"
+ },
+ {
+  "id": "setca-mons",
+  "publisher": "SETCa Mons-Borinage",
+  "title": "Manifestation 23 novembre 2026 à Bruxelles",
+  "url": "https://setcamonsborinage.com/2026/11/12/manifestation-23-novembre-2026-a-bruxelles/",
+  "date": "2026-11-12",
+  "lang": "fr",
+  "type": "syndical"
+ },
+ {
+  "id": "cgsp-stib",
+  "publisher": "CGSP-ACOD TBM",
+  "title": "Syndicat des transports en commun à Bruxelles",
+  "url": "https://cgspstibtbm.com/",
+  "date": "2026-11",
+  "lang": "fr",
+  "type": "syndical"
+ },
+ {
+  "id": "thinkabvv",
+  "publisher": "ABVV Stora Enso (blog)",
+  "title": "think… ABVV SEL",
+  "url": "https://thinkabvv.blogspot.com/",
+  "date": "2026-11",
+  "lang": "nl",
+  "type": "syndical"
+ },
+ {
+  "id": "denieuwewerker",
+  "publisher": "De Nieuwe Werker (ABVV)",
+  "title": "Steeds meer Belgen hebben begrip voor of steunen het sociaal verzet",
+  "url": "https://denieuwewerker.be/de-stemming-2026-steun-sociaal-verzet-groeit/",
+  "date": "2026-05",
+  "lang": "nl",
+  "type": "syndical"
+ },
+ {
+  "id": "solidaris",
+  "publisher": "Solidaris Wallonie",
+  "title": "Manifestation nationale du 23 novembre 2026",
+  "url": "https://www.solidaris-wallonie.be/prises-de-position/manifestation-nationale-23-novembre-2026/",
+  "date": "2026-11",
+  "lang": "fr",
+  "type": "associatif"
+ },
+ {
+  "id": "cncd",
+  "publisher": "CNCD-11.11.11",
+  "title": "Je choisis l'humain : marchons pour un avenir plus juste",
+  "url": "https://www.cncd.be/Greve-Manifestation-Je-choisis-l",
+  "date": "2026-11",
+  "lang": "fr",
+  "type": "associatif"
+ },
+ {
+  "id": "fedabxl",
+  "publisher": "Fédération des services sociaux (Bruxelles)",
+  "title": "Le 23 novembre, ensemble pour défendre le social-santé face à l'austérité",
+  "url": "https://fedabxl.be/nl/evenement/manifestation-le-23-novembre-ensemble-pour-defendre-le-social-sante-face-a-lausterite/",
+  "date": "2026-11",
+  "lang": "fr",
+  "type": "associatif"
+ },
+ {
+  "id": "ps",
+  "publisher": "Parti Socialiste",
+  "title": "Rendez-vous à la manifestation nationale !",
+  "url": "https://www.ps.be/manifestation_nationale_26_nov",
+  "date": "2026-11",
+  "lang": "fr",
+  "type": "partisan"
+ },
+ {
+  "id": "ptb",
+  "publisher": "PTB",
+  "title": "De Wever continue de refuser une contribution équitable des super-riches",
+  "url": "https://www.ptb.be/actualites/de-wever-continue-de-refuser-une-contribution-equitable-des-super-riches-quil-arrete-de",
+  "date": "2026-11",
+  "lang": "fr",
+  "type": "partisan"
+ },
+ {
+  "id": "voka-betoging",
+  "publisher": "Voka",
+  "title": "Een nieuwe betoging zonder ernstig plan",
+  "url": "https://www.voka.be/vlaanderen/nieuws/een-nieuwe-betoging-zonder-ernstig-plan",
+  "date": "2026-11-19",
+  "lang": "nl",
+  "type": "patronal"
+ },
+ {
+  "id": "voka-onrealistisch",
+  "publisher": "Voka",
+  "title": "Betogen met onrealistische eisen",
+  "url": "https://www.voka.be/vlaanderen/nieuws/betogen-met-onrealistische-eisen",
+  "date": "2026-05",
+  "lang": "nl",
+  "type": "patronal"
+ },
+ {
+  "id": "voka-unizo-actie",
+  "publisher": "Voka",
+  "title": "Constructieve actie UNIZO en Voka evenaart opkomst vakbondsbetoging",
+  "url": "https://www.voka.be/vlaanderen/nieuws/constructieve-actie-unizo-en-voka-evenaart-opkomst-vakbondsbetoging",
+  "date": "2026",
+  "lang": "nl",
+  "type": "patronal"
+ },
+ {
+  "id": "feb-tango",
+  "publisher": "FEB-VBO",
+  "title": "Accord budgétaire : il faut être trois pour danser le tango",
+  "url": "https://www.vbo-feb.be/fr/opinions/il-faut-etre-trois-pour-danser-le-tango/",
+  "date": "2026-11",
+  "lang": "fr",
+  "type": "patronal"
+ },
+ {
+  "id": "feb-77",
+  "publisher": "FEB-VBO",
+  "title": "Federale begroting − vereiste inspanning loopt op tot 7,7 miljard euro",
+  "url": "https://www.vbo-feb.be/nl/nieuws/federale-begroting-%E2%88%92-vereiste-inspanning-loopt-op-tot-77-miljard-euro/",
+  "date": "2026-07",
+  "lang": "nl",
+  "type": "patronal"
+ },
+ {
+  "id": "feb-lanterne",
+  "publisher": "FEB-VBO",
+  "title": "Belgische begroting draagt in 2027 de rode lantaarn in de eurozone",
+  "url": "https://www.vbo-feb.be/nl/nieuws/belgische-begroting-draagt-in-2027-de-rode-lantaarn-in-de-eurozone/",
+  "date": "2026-11-18",
+  "lang": "nl",
+  "type": "patronal"
+ },
+ {
+  "id": "feb-groeiplan",
+  "publisher": "FEB-VBO",
+  "title": "Politieke crisis: België heeft nood aan een groeiplan",
+  "url": "https://www.vbo-feb.be/nl/opinies/een-stuurloos-schip-in-woelige-wateren/",
+  "date": "2026-11",
+  "lang": "nl",
+  "type": "patronal"
+ },
+ {
+  "id": "fedustria",
+  "publisher": "Fedustria",
+  "title": "Journée d'action en front commun le 23 novembre 2026",
+  "url": "https://www.fedustria.be/fr/knowledge-center/journee-daction-en-front-commun-le-23-novembre-2026/",
+  "date": "2026-11",
+  "lang": "fr",
+  "type": "patronal"
+ },
+ {
+  "id": "attentia",
+  "publisher": "Attentia",
+  "title": "Action syndicale du 23 novembre 2026",
+  "url": "https://www.attentia.be/fr/actualites/action-syndicale-du-23-novembre-2026",
+  "date": "2026-11",
+  "lang": "fr",
+  "type": "pratique"
+ },
+ {
+  "id": "sociare",
+  "publisher": "Sociare",
+  "title": "Vakbondsactie op 23 november 2026",
+  "url": "https://www.sociare.be/nl/kennisbank/vakbondsactie-op-23-november-2026",
+  "date": "2026-11",
+  "lang": "nl",
+  "type": "pratique"
+ },
+ {
+  "id": "cessoc",
+  "publisher": "CESSoC",
+  "title": "Journée d'action syndicale le 23 novembre 2026",
+  "url": "https://cessoc.be/content/article/25366",
+  "date": "2026-11",
+  "lang": "fr",
+  "type": "pratique"
+ },
+ {
+  "id": "ville-bxl",
+  "publisher": "Ville de Bruxelles",
+  "title": "Manifestation et circulation le lundi 23 novembre",
+  "url": "https://www.bruxelles.be/manifestation-et-circulation-le-lundi-23-novembre",
+  "date": "2026-11-20",
+  "lang": "fr",
+  "type": "officiel"
+ },
+ {
+  "id": "vlaanderen",
+  "publisher": "Vlaanderen.be (intranet)",
+  "title": "Syndicale actie op 23 november: wat te doen?",
+  "url": "https://www.vlaanderen.be/intern/nieuwsberichten/syndicale-actie-op-23-november-wat-te-doen",
+  "date": "2026-11",
+  "lang": "nl",
+  "type": "officiel"
+ },
+ {
+  "id": "cgra",
+  "publisher": "CGRA",
+  "title": "Action syndicale du 23 novembre : les entretiens personnels sont maintenus",
+  "url": "https://www.cgra.be/fr/actualite/action-syndicale-du-23-novembre-les-entretiens-personnels-sont-maintenus",
+  "date": "2026-11",
+  "lang": "fr",
+  "type": "officiel"
+ },
+ {
+  "id": "sncb",
+  "publisher": "SNCB",
+  "title": "Infos trafic, perturbations et travaux sur le réseau",
+  "url": "https://www.belgiantrain.be/fr/travel-info/current/ongoing-disturbances-and-works",
+  "date": "2026-11-19",
+  "lang": "fr",
+  "type": "officiel"
+ },
+ {
+  "id": "rtbf-transports",
+  "publisher": "RTBF",
+  "title": "Manifestation nationale et grève du 23 novembre : à quoi s'attendre dans les trains, bus et métros ?",
+  "url": "https://www.rtbf.be/article/manifestation-nationale-et-greve-du-23-novembre-a-quoi-s-attendre-dans-les-trains-bus-et-metros-11817872",
+  "date": "2026-11-20",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "rtbf-police",
+  "publisher": "RTBF",
+  "title": "Manifestation nationale du 23 novembre : plusieurs axes et tunnels fermés lundi de 9h00 à 15h00 à Bruxelles",
+  "url": "https://www.rtbf.be/article/manifestation-nationale-du-23-novembre-plusieurs-axes-et-tunnels-fermes-lundi-de-9h00-a-15h00-a-bruxelles-11818698",
+  "date": "2026-11-20",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "rtbf-9oct",
+  "publisher": "RTBF",
+  "title": "Manifestation nationale du 9 octobre : plus de 100 arrestations, un millier de casseurs, des dizaines de milliers de manifestants",
+  "url": "https://www.rtbf.be/article/manifestation-nationale-du-9-octobre-plus-de-100-arrestations-un-millier-de-casseurs-des-dizaines-de-milliers-de-manifestants-11797903",
+  "date": "2026-10-09",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "rtbf-12mars",
+  "publisher": "RTBF",
+  "title": "Manifestation nationale : entre 80.000 et 100.000 personnes dans les rues de Bruxelles",
+  "url": "https://www.rtbf.be/article/manifestation-nationale-du-12-mars-des-milliers-de-manifestants-affluent-sur-la-petite-ceinture-11693238",
+  "date": "2026-03-12",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "rtbf-anders",
+  "publisher": "RTBF",
+  "title": "Budget fédéral : remplacer Vooruit par Anders, une piste politiquement et mathématiquement fragile",
+  "url": "https://www.rtbf.be/article/budget-federal-remplacer-vooruit-par-anders-une-piste-politiquement-et-mathematiquement-fragile-11818602",
+  "date": "2026-11-20",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "lalibre-mobilisation",
+  "publisher": "La Libre",
+  "title": "Une « grande mobilisation citoyenne » à Bruxelles ce 23 novembre : les revendications et les perturbations prévues",
+  "url": "https://www.lalibre.be/belgique/societe/2026/11/20/une-grande-mobilisation-citoyenne-a-bruxelles-ce-23-novembre-les-revendications-et-les-perturbations-prevues-DURNXN4RQBGXVDXANR5XSIOB4U/",
+  "date": "2026-11-20",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "lalibre-police",
+  "publisher": "La Libre (Belga)",
+  "title": "Manifestation nationale du 23 novembre — Plusieurs axes et tunnels fermés lundi de 9h00 à 15h00 à Bruxelles",
+  "url": "https://www.lalibre.be/dernieres-depeches/2026/11/20/manifestation-nationale-du-23-novembre-plusieurs-axes-et-tunnels-fermes-lundi-de-9h00-a-15h00-a-bruxelles-KJA4X67GFJBZJJIWL3KFMZQ3XQ/",
+  "date": "2026-11-20",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "lalibre-annonce",
+  "publisher": "La Libre",
+  "title": "Les trois grands syndicats annoncent une nouvelle manifestation en front commun à Bruxelles",
+  "url": "https://www.lalibre.be/belgique/societe/2026/10/21/les-trois-grands-syndicats-prevoient-une-nouvelle-manifestation-a-bruxelles-P7YLHTZAZRCBBJLSYOCP4JO26I/",
+  "date": "2026-10-21",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "lalibre-douziemes",
+  "publisher": "La Libre",
+  "title": "Crise gouvernementale : le gouvernement fédéral approuve la première tranche des douzièmes provisoires",
+  "url": "https://www.lalibre.be/belgique/politique-belge/2026/11/20/crise-gouvernementale-le-gouvernement-federal-approuve-la-premiere-tranche-des-douziemes-provisoires-2D643YZMOJGURC6TT7NLMDGOE4/",
+  "date": "2026-11-20",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "lalibre-elections",
+  "publisher": "La Libre",
+  "title": "Crise gouvernementale : des communes reçoivent un courrier pour se préparer à des élections anticipées",
+  "url": "https://www.lalibre.be/belgique/politique-belge/2026/11/20/crise-gouvernementale-des-communes-recoivent-un-courrier-pour-se-preparer-a-des-elections-anticipees-DUQS3DKYC5E7NI7LU2D5O5JDZY/",
+  "date": "2026-11-20",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "lalibre-kern",
+  "publisher": "La Libre",
+  "title": "Budget fédéral : le kern se réunit à nouveau, la pression monte sur Vooruit",
+  "url": "https://www.lalibre.be/belgique/politique-belge/2026/11/15/budget-federal-les-partenaires-de-la-coalition-mettent-la-pression-sur-vooruit-pour-debloquer-les-negociations-YV6CMZWTJFGJTAXWG5DYBQ2YH4/",
+  "date": "2026-11-15",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "lalibre-namur",
+  "publisher": "La Libre",
+  "title": "« Un budget qui glace le sang » : le front commun syndical annonce une mobilisation le 18 novembre à Namur",
+  "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/20/un-budget-qui-glace-le-sang-le-front-commun-syndical-annonce-une-mobilisation-le-18-novembre-a-namur-2REKH3GE3ZHLZMUGSP44GHP5XU/",
+  "date": "2026-10-20",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "lalibre-9oct",
+  "publisher": "La Libre (AFP)",
+  "title": "Manifestation à Bruxelles contre la rigueur, marquée par des violences en marge du cortège",
+  "url": "https://www.lalibre.be/dernieres-depeches/2026/10/09/apres-les-lyceens-les-syndicats-belges-mobilisent-contre-la-rigueur-C4CNRUGENRH2VIP7XYQNWTNSYU/",
+  "date": "2026-10-09",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "lavenir-perturbations",
+  "publisher": "L'Avenir",
+  "title": "Écoles, transports, 11e action : voici les perturbations attendues lors de la manifestation nationale de ce lundi 23 novembre",
+  "url": "https://www.lavenir.net/regions/bruxelles/2026/11/20/ecoles-transports-11e-action-voici-les-perturbations-attendues-lors-de-la-manifestation-nationale-de-ce-lundi-23-novembre-ZSCR7PAAJJAT5BM2ZX2HBSBFVU/",
+  "date": "2026-11-20",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "lavenir-budget-roi",
+  "publisher": "L'Avenir",
+  "title": "Crise politique : Bart De Wever va-t-il présenter un budget au Roi le 23 novembre, jour de manifestation nationale ?",
+  "url": "https://www.lavenir.net/actu/belgique/politique/2026/11/16/un-accord-pour-le-jour-de-manifestation-L2ZM3MLEFVHQLB5FBJ656F3BOI/",
+  "date": "2026-11-16",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "lavenir-6nov",
+  "publisher": "L'Avenir",
+  "title": "Démission de Bart De Wever refusée et sursis de 10 jours pour le budget : ce qu'il faut retenir",
+  "url": "https://www.lavenir.net/actu/belgique/politique/2026/11/06/demission-de-bart-de-wever-refusee-et-sursis-de-10-jours-pour-le-budget-ce-quil-faut-retenir-de-ce-vendredi-a-haute-intensite-politique-ODH4VWTH2NA3NOCQJGQRFEH774/",
+  "date": "2026-11-06",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "lavenir-cycle",
+  "publisher": "L'Avenir",
+  "title": "Manifestations en série en Belgique, trop c'est trop ? « On peut parler d'un cycle de protestations »",
+  "url": "https://www.lavenir.net/actu/2026/11/06/manifestations-en-serie-en-belgique-trop-cest-trop-on-peut-parler-dun-cycle-de-protestations-DQA7V6BLKFHCPGPIM4BKJQUKY4/",
+  "date": "2026-11-06",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "lavenir-audition",
+  "publisher": "L'Avenir",
+  "title": "Budget fédéral : face aux députés, les syndicats dévoilent leur recette budgétaire… et fracturent un peu plus la majorité Arizona",
+  "url": "https://www.lavenir.net/actu/belgique/politique/2026/11/17/budget-federal-face-aux-deputes-les-syndicats-devoilent-leur-recette-budgetaire-et-fracturent-un-peu-plus-la-majorite-arizona-AF3LZ72PDZE3BELYVHQCXGB73I/",
+  "date": "2026-11-17",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "lavenir-contact",
+  "publisher": "L'Avenir",
+  "title": "Crise budgétaire : la N-VA et Vooruit renouent le contact, mais Bart De Wever laisse encore Vandenbroucke dans l'attente",
+  "url": "https://www.lavenir.net/actu/belgique/politique/2026/11/20/crise-budgetaire-la-n-va-et-vooruit-renouent-le-contact-mais-bart-de-wever-laisse-encore-vandenbroucke-dans-lattente-OHQ7LQBN4RCAXH64PZYERDKVWM/",
+  "date": "2026-11-20",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "lavenir-annonce",
+  "publisher": "L'Avenir",
+  "title": "Une nouvelle manifestation nationale en front commun syndical prévue le 23 novembre à Bruxelles",
+  "url": "https://www.lavenir.net/actu/belgique/2026/10/21/une-nouvelle-manifestation-nationale-en-front-commun-syndical-prevue-le-23-novembre-a-bruxelles-TNLCM3EA55CYRNMQJJSW4UFBQQ/",
+  "date": "2026-10-21",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "dh-9oct",
+  "publisher": "La DH",
+  "title": "Budget fédéral : la FGTB et la CSC annoncent une manifestation à Bruxelles le 9 octobre",
+  "url": "https://www.dhnet.be/actu/belgique/2026/09/08/budget-federal-la-fgtb-et-la-csc-annoncent-une-manifestation-a-bruxelles-le-9-octobre-un-premier-avertissement-clair-XZEN32ODANGJFBAFA5SNZPO2BI/",
+  "date": "2026-09-08",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "moustique",
+  "publisher": "Moustique",
+  "title": "Démission de Bart De Wever : voici pourquoi on ne devrait pas aller revoter pour Noël",
+  "url": "https://moustique.be/notre-epoque/2026/11/03/demission-de-bart-de-wever-voici-pourquoi-on-ne-devrait-pas-aller-revoter-pour-noel-MW4ZMSCME5B2JHVX5573LOYALY/",
+  "date": "2026-11-03",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "levif-annonce",
+  "publisher": "Le Vif",
+  "title": "Nouvelle manifestation nationale le 23 novembre : les syndicats veulent mobiliser bien au-delà de leurs rangs",
+  "url": "https://www.levif.be/belgique/social/mouvements-sociaux/nouvelle-manifestation-nationale-le-23-novembre-les-syndicats-veulent-mobiliser-bien-au-dela-de-leurs-rangs/",
+  "date": "2026-10",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "levif-vooruit",
+  "publisher": "Le Vif",
+  "title": "Bart De Wever exclut Vooruit des discussions bilatérales",
+  "url": "https://www.levif.be/belgique/politique/live/budget-federal/bart-de-wever-exclut-vooruit-des-discussions-bilaterales-1472017/",
+  "date": "2026-11-18",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "bx1-mobilisation",
+  "publisher": "BX1",
+  "title": "Manifestation du 23 novembre : une nouvelle « grande mobilisation citoyenne » à Bruxelles contre la politique d'austérité",
+  "url": "https://bx1.be/categories/news/manifestation-du-23-novembre-une-nouvelle-grande-mobilisation-citoyenne-a-bruxelles-contre-la-politique-dausterite/",
+  "date": "2026-11-20",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "bx1-roi",
+  "publisher": "BX1",
+  "title": "Crise gouvernementale : le roi Philippe charge Bart De Wever de poursuivre les négociations",
+  "url": "https://bx1.be/categories/news/crise-gouvernementale-le-roi-philippe-charge-bart-de-wever-de-poursuivre-les-negociations/",
+  "date": "2026-11-16",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "bx1-synova",
+  "publisher": "BX1",
+  "title": "« Réservoir plein. Portefeuille vide. » : Synova réclame une meilleure intervention pour les automobilistes",
+  "url": "https://bx1.be/categories/news/reservoir-plein-portefeuille-vide-synova-reclame-une-meilleure-intervention-pour-les-automobilistes/",
+  "date": "2026-11",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "bxltoday-quintin",
+  "publisher": "Bruxelles Today",
+  "title": "Plus de 100 arrestations à Bruxelles ce vendredi, Bernard Quintin promet une « réponse à la hauteur des dégâts causés »",
+  "url": "https://www.bruxellestoday.be/actualite/quintin-promet-reponse-degats-manifestation-100-arrestations.html",
+  "date": "2026-10-09",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "bxlsecrete",
+  "publisher": "Bruxelles Secrète",
+  "title": "Grève et manifestation nationale : à quoi faut-il s'attendre ?",
+  "url": "https://bruxellessecrete.com/greve-et-manifestation-nationale-lundi-23-novembre-2026/",
+  "date": "2026-11-16",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "bruzz-roi",
+  "publisher": "BRUZZ",
+  "title": "Enkel Vooruit het niet eens met begroting: De Wever moet zonder akkoord naar de koning",
+  "url": "https://www.bruzz.be/actua/politiek/enkel-vooruit-het-niet-eens-met-begroting-de-wever-moet-zonder-akkoord-naar-de-koning-2026-11-16",
+  "date": "2026-11-16",
+  "lang": "nl",
+  "type": "presse"
+ },
+ {
+  "id": "bruzz-mivb",
+  "publisher": "BRUZZ",
+  "title": "MIVB waarschuwt voor sterke hinder tijdens nationale betoging 23 november",
+  "url": "https://www.bruzz.be/actua/mobiliteit/mivb-waarschuwt-voor-sterke-hinder-tijdens-nationale-betoging-23-november-2026-11-16",
+  "date": "2026-11-16",
+  "lang": "nl",
+  "type": "presse"
+ },
+ {
+  "id": "bruzz-annonce",
+  "publisher": "BRUZZ",
+  "title": "Brussel op maandag 23 november andermaal decor van nationale betoging",
+  "url": "https://www.bruzz.be/actua/politiek/brussel-op-maandag-23-november-andermaal-decor-van-nationale-betoging-2026-10-21",
+  "date": "2026-10-21",
+  "lang": "nl",
+  "type": "presse"
+ },
+ {
+  "id": "bruzz-verspreid",
+  "publisher": "BRUZZ",
+  "title": "Vakbonden in verspreide slagorde tegen regering De Wever",
+  "url": "https://www.bruzz.be/actua/politiek/vakbonden-opnieuw-op-straat-tegen-beleid-regering-de-wever-2026-10-09",
+  "date": "2026-10-09",
+  "lang": "nl",
+  "type": "presse"
+ },
+ {
+  "id": "bruzz-studenten",
+  "publisher": "BRUZZ",
+  "title": "Studentenprotest dinsdag aan Centraal Station: 'We verwachten tot 10.000 betogers'",
+  "url": "https://www.bruzz.be/actua/samenleving/studentenprotest-dinsdag-aan-centraal-station-we-verwachten-tot-10000-betogers-2026-11-16",
+  "date": "2026-11-16",
+  "lang": "nl",
+  "type": "presse"
+ },
+ {
+  "id": "bruzz-crisis",
+  "publisher": "BRUZZ",
+  "title": "Koning neemt ontslag De Wever in beraad: 'Het land kan zich geen crisis veroorloven'",
+  "url": "https://www.bruzz.be/actua/samenleving/koning-neemt-ontslag-de-wever-beraad-het-land-kan-zich-geen-crisis-veroorloven-2026-11-02",
+  "date": "2026-11-02",
+  "lang": "nl",
+  "type": "presse"
+ },
+ {
+  "id": "vrt-annonce-nl",
+  "publisher": "VRT NWS",
+  "title": "Nieuwe nationale betoging op 23 november, melden 3 grote vakbonden samen",
+  "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/vakbonden-nieuwe-betoging-november/",
+  "date": "2026-10-21",
+  "lang": "nl",
+  "type": "presse"
+ },
+ {
+  "id": "vrt-annonce-fr",
+  "publisher": "VRT NWS (fr)",
+  "title": "Manifestation nationale en front commun syndical lundi 23 novembre à Bruxelles",
+  "url": "https://www.vrt.be/vrtnws/fr/2026/10/22/manifestation-nationale-en-front-commun-syndical-vendredi-23-nov/",
+  "date": "2026-10-22",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "vrt-12mars",
+  "publisher": "VRT NWS",
+  "title": "Premier De Wever na vakbondsbetoging: « Het is onze plicht op koers te blijven »",
+  "url": "https://www.vrt.be/vrtnws/nl/liveblog/premier-de-wever-na-vakbondsbetoging-tegen-hervormingen-het-is~1773298499998/",
+  "date": "2026-03-12",
+  "lang": "nl",
+  "type": "presse"
+ },
+ {
+  "id": "vrt-12mei",
+  "publisher": "VRT NWS",
+  "title": "Vakbonden betogen al voor 6e keer tegen regeringsbeleid",
+  "url": "https://www.vrt.be/vrtnws/nl/2026/05/11/nationale-betoging-12-mei-hinder/",
+  "date": "2026-05-11",
+  "lang": "nl",
+  "type": "presse"
+ },
+ {
+  "id": "vrt-12mei-bilan",
+  "publisher": "VRT NWS",
+  "title": "Vakbonden blikken tevreden terug op actiedag, ondanks lagere opkomst",
+  "url": "https://www.vrt.be/vrtnws/nl/liveblog/vakbonden-blikken-tevreden-terug-op-actiedag-ondanks-lagere-opk~1778555304043/",
+  "date": "2026-05-12",
+  "lang": "nl",
+  "type": "presse"
+ },
+ {
+  "id": "vrt-zomer",
+  "publisher": "VRT NWS",
+  "title": "Vakbonden plannen nieuwe acties na de zomer",
+  "url": "https://www.vrt.be/vrtnws/nl/2026/07/21/vakbonden-nieuwe-acties-na-zomerreces/",
+  "date": "2026-07-21",
+  "lang": "nl",
+  "type": "presse"
+ },
+ {
+  "id": "vrt-stemming-2025",
+  "publisher": "VRT NWS",
+  "title": "Brede steun voor regering-De Wever: meerderheid staat achter beperking werkloosheidsuitkering",
+  "url": "https://www.vrt.be/vrtnws/nl/2025/05/20/de-stemming-evaluatie-regering-maatregelen/",
+  "date": "2025-05-20",
+  "lang": "nl",
+  "type": "presse"
+ },
+ {
+  "id": "vrt-live-vb",
+  "publisher": "VRT NWS",
+  "title": "LIVE — De Wever noemt noodbegroting « afschuwelijk falen »",
+  "url": "https://www.vrt.be/vrtnws/nl/liveblog/de-wever-noemt-noodbegroting-afschuwelijk-falen-en-roept-op-to~1793247532380/",
+  "date": "2026-11",
+  "lang": "nl",
+  "type": "presse"
+ },
+ {
+  "id": "knack-douziemes",
+  "publisher": "Knack",
+  "title": "Regering keurt eerste schijf voorlopige twaalfden goed",
+  "url": "https://www.knack.be/nieuws/belgie/politiek/live/verkiezingen-2024/regering-keurt-eerste-schijf-voorlopige-twaalfden-goed-1269309/",
+  "date": "2026-11-20",
+  "lang": "nl",
+  "type": "presse"
+ },
+ {
+  "id": "wablieft",
+  "publisher": "Wablieft",
+  "title": "De Wever krijgt tot 16 november",
+  "url": "https://www.wablieft.be/nl/krant/binnenland/de-wever-krijgt-tot-16-november",
+  "date": "2026-11",
+  "lang": "nl",
+  "type": "presse"
+ },
+ {
+  "id": "robtv",
+  "publisher": "ROBtv",
+  "title": "Regionale Omroep Brabant (actualité)",
+  "url": "https://www.robtv.be/",
+  "date": "2026-11",
+  "lang": "nl",
+  "type": "presse"
+ },
+ {
+  "id": "businessam",
+  "publisher": "Business AM",
+  "title": "Wil De Wever Vooruit vervangen door Anders?",
+  "url": "https://businessam.be/wil-de-wever-vooruit-vervangen-door-anders-in-de-federale-regering-in-belgie/",
+  "date": "2026-11",
+  "lang": "nl",
+  "type": "presse"
+ },
+ {
+  "id": "bt-strike",
+  "publisher": "The Brussels Times",
+  "title": "National strike on Monday: what disruptions are expected in Brussels?",
+  "url": "https://www.brusselstimes.com/2412909/national-strike-on-monday-what-disruptions-are-expected-in-brussels",
+  "date": "2026-11",
+  "lang": "en",
+  "type": "presse"
+ },
+ {
+  "id": "bt-traffic",
+  "publisher": "The Brussels Times",
+  "title": "Traffic expected to be disrupted in Brussels on Monday, police say",
+  "url": "https://www.brusselstimes.com/2416219/traffic-expected-to-be-disrupted-in-brussels-on-monday-police-say",
+  "date": "2026-11-20",
+  "lang": "en",
+  "type": "presse"
+ },
+ {
+  "id": "bt-motion",
+  "publisher": "The Brussels Times",
+  "title": "Opposition to introduce no confidence motion in Belgian government",
+  "url": "https://www.brusselstimes.com/2409197/opposition-to-introduce-no-confidence-motion-in-belgian-government",
+  "date": "2026-11",
+  "lang": "en",
+  "type": "presse"
+ },
+ {
+  "id": "qz-roi",
+  "publisher": "Quartz (fr)",
+  "title": "Le roi des Belges a refusé la démission de Bart De Wever",
+  "url": "https://fr.qz.com/roi-philippe-refuse-demission-bart-de-wever-budget-110626",
+  "date": "2026-11-06",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "afp-sursis",
+  "publisher": "AFP via Yahoo Finance",
+  "title": "Crise budgétaire en Belgique : sursis pour le Premier ministre, qui reprend les négociations",
+  "url": "https://fr.finance.yahoo.com/actualites/crise-budg%C3%A9taire-belgique-sursis-premier-122211350.html",
+  "date": "2026-11",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "webdo",
+  "publisher": "webdo.tn",
+  "title": "Après la France, la Belgique s'embrase : les manifestations gagnent Bruxelles",
+  "url": "https://www.webdo.tn/fr/actualite/international/apres-la-france-la-belgique-sembrase-les-manifestations-gagnent-bruxelles/405296/",
+  "date": "2026-10",
+  "lang": "fr",
+  "type": "presse"
+ },
+ {
+  "id": "dwm-interview",
+  "publisher": "DeWereldMorgen",
+  "title": "ACV-voorzitter Vermorgen en ABVV-voorzitter Engelaar: « Regering De Wever viseert uitsluitend de werkende mensen »",
+  "url": "https://www.dewereldmorgen.be/artikel/2026/11/19/acv-voorzitter-vermorgen-en-abvv-voorzitter-engelaar-regering-de-wever-viseert-uitsluitend-de",
+  "date": "2026-11-19",
+  "lang": "nl",
+  "type": "alternatif"
+ },
+ {
+  "id": "dwm-cijfers",
+  "publisher": "DeWereldMorgen",
+  "title": "Alle vakbonden op 23 november weer op straat: cijfers Nationale Bank ondersteunen hun alternatief",
+  "url": "https://www.dewereldmorgen.be/artikel/2026/10/22/alle-vakbonden-op-23-november-weer-op-straat-cijfers-nationale-bank-ondersteunen-hun-alternatief",
+  "date": "2026-10-22",
+  "lang": "nl",
+  "type": "alternatif"
+ },
+ {
+  "id": "kairos",
+  "publisher": "Kairos Wallonie-Bruxelles",
+  "title": "Fiscalité : le front commun syndical propose 21,2 milliards et appelle les citoyens à signer leur pétition",
+  "url": "https://kairoswb.com/actualite/belgique-societe-fiscalite-le-front-commun-syndical-propose-212-milliards-et-appelle-les-citoyens-a-signer-leur-petition/",
+  "date": "2026-11",
+  "lang": "fr",
+  "type": "alternatif"
+ },
+ {
+  "id": "alencontre",
+  "publisher": "À l'encontre (M. Alaluf)",
+  "title": "Belgique : des mobilisations inscrites dans la durée",
+  "url": "https://alencontre.org/europe/belgique/belgique-des-mobilisations-inscrites-dans-la-duree.html",
+  "date": "2026-11",
+  "lang": "fr",
+  "type": "alternatif"
+ },
+ {
+  "id": "lava",
+  "publisher": "Lava",
+  "title": "Barsten in de muur van Arizona",
+  "url": "https://lavamedia.be/barsten-in-de-muur-van-arizona/",
+  "date": "2026",
+  "lang": "nl",
+  "type": "alternatif"
+ },
+ {
+  "id": "neutron",
+  "publisher": "Neutr-On",
+  "title": "Nieuwe staking op 23 november",
+  "url": "https://www.neutr-on.be/nieuwe-staking-op-23-november/",
+  "date": "2026-11",
+  "lang": "nl",
+  "type": "alternatif"
+ },
+ {
+  "id": "mo",
+  "publisher": "MO*",
+  "title": "Nationale vakbondsbetoging (agenda)",
+  "url": "https://www.mo.be/agenda/nationale-vakbondsbetoging",
+  "date": "2026-11",
+  "lang": "nl",
+  "type": "alternatif"
+ },
+ {
+  "id": "deeparrival",
+  "publisher": "DeepArrival",
+  "title": "Brussels metro, trams and buses disrupted Nov. 23 for national strike",
+  "url": "https://deeparrival.com/news/brussels-stib-disruption-national-demonstration-november-23-2026/",
+  "date": "2026-11",
+  "lang": "en",
+  "type": "pratique"
+ },
+ {
+  "id": "iambeezy",
+  "publisher": "I am Beezy (blog)",
+  "title": "Manifestation nationale 23 novembre 2026 à Bruxelles : heure, départ…",
+  "url": "https://blog.iambeezy.app/fr/manifestation-nationale-23-novembre-bruxelles-gare-du-nord-syndicats-budget/",
+  "date": "2026-11",
+  "lang": "fr",
+  "type": "pratique"
+ },
+ {
+  "id": "brussels-taxi",
+  "publisher": "Brussels Taxi (blog)",
+  "title": "Manifestation 23 novembre 2026 : STIB perturbée, que faire ?",
+  "url": "https://www.brussels-taxi.be/manifestation-23-novembre-2026-bruxelles-stib/",
+  "date": "2026-11",
+  "lang": "fr",
+  "type": "pratique"
+ },
+ {
+  "id": "tootbus",
+  "publisher": "Tootbus",
+  "title": "Information de service — Bruxelles",
+  "url": "https://www.tootbus.com/fr/brussels/informations-de-service",
+  "date": "2026-11",
+  "lang": "fr",
+  "type": "pratique"
+ },
+ {
+  "id": "wiki-gov",
+  "publisher": "Wikipedia",
+  "title": "De Wever government",
+  "url": "https://en.wikipedia.org/wiki/De_Wever_government",
+  "date": "2026",
+  "lang": "en",
+  "type": "reference"
+ },
+ {
+  "id": "wiki-synova",
+  "publisher": "Wikipédia",
+  "title": "Synova",
+  "url": "https://fr.wikipedia.org/wiki/Synova",
+  "date": "2026",
+  "lang": "fr",
+  "type": "reference"
+ },
+ {
+  "id": "cdj",
+  "publisher": "Conseil de déontologie journalistique",
+  "title": "Réunion d'octobre au CDJ : 2 plaintes partiellement fondées…",
+  "url": "https://www.lecdj.be/fr/reunion-doctobre-au-cdj-2-plaintes-partiellement-fondees-rtbf-jt-un-journaliste-ln24-instagram-3-plaintes-non-fondees-sudinfo-lavenir-l/",
+  "date": "2026-10",
+  "lang": "fr",
+  "type": "reference"
+ },
+ {
+  "id": "csa",
+  "publisher": "CSA",
+  "title": "Déontologie journalistique",
+  "url": "https://www.csa.be/deontologie-journalistique/",
+  "date": "2026",
+  "lang": "fr",
+  "type": "reference"
+ },
+ {
+  "id": "vrt-onpartijdig",
+  "publisher": "VRT",
+  "title": "De onpartijdigheid van het VRT-aanbod (rapport 2021)",
+  "url": "https://www.vrt.be/nl/assets/files/2024-09/Onpartijdigheid-rapport-2021_finaal.pdf",
+  "date": "2021",
+  "lang": "nl",
+  "type": "reference"
+ },
+ {
+  "id": "onem",
+  "publisher": "ONEM",
+  "title": "Réforme de la réglementation du chômage",
+  "url": "https://www.onem.be/reforme-de-la-reglementation-du-chomage",
+  "date": "2026",
+  "lang": "fr",
+  "type": "officiel"
+ },
+ {
+  "id": "mobilisation",
+  "publisher": "Mobilisation · novembre 2026 (site citoyen)",
+  "title": "Mobilisation · novembre 2026",
+  "url": "https://ouaisfieu.github.io/mobilisation/",
+  "date": "2026-11-06",
+  "lang": "fr",
+  "type": "alternatif"
+ }
+]

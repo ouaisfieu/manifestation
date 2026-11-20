@@ -1,0 +1,44 @@
+---
+title: "Après le 23 novembre : ce qu'il faut suivre"
+kicker: "Suivi"
+description: "Indicateurs à suivre après la manifestation nationale du 23 novembre 2026 : affluence, incidents, audience royale, budget, lignes rouges, suite du plan d'action syndical."
+lede: "La journée se jugera sur sept indicateurs. Cette page sera complétée au fur et à mesure que les faits seront connus."
+toc:
+  - ["indicateurs", "Les sept indicateurs"]
+  - ["calendrier", "Le calendrier qui suit"]
+  - ["lire", "Comment lire le bilan"]
+next: ["/lexique/", "Lexique"]
+---
+<h2 id="indicateurs">Les sept indicateurs</h2>
+{% if not bilan.publie %}
+{% note "info", "En attente" %}<p>L'événement n'a pas encore eu lieu au moment de la rédaction (20 novembre 2026). Les valeurs seront ajoutées après le 23 novembre, avec leurs sources.</p>{% endnote %}
+{% else %}<p class="small">Bilan mis à jour le {{ bilan.maj | frDate }}.</p>{% endif %}
+<div class="table-wrap wide">
+<table>
+<caption>Tableau de bord du 23 novembre</caption>
+<thead><tr><th scope="col">Indicateur</th><th scope="col">Valeur constatée</th><th scope="col">Point de comparaison</th></tr></thead>
+<tbody>
+{%- for i in bilan.indicateurs %}
+<tr><th scope="row">{{ i.label }}</th><td>{% if i.valeur %}{{ i.valeur }}{% for id in i.src %}{% s id %}{% endfor %}{% else %}<span class="pill pill--nonverifie">en attente</span>{% endif %}</td><td>{{ i.reference }}</td></tr>
+{%- endfor %}
+</tbody>
+</table>
+</div>
+
+<h2 id="calendrier">Le calendrier qui suit</h2>
+<ol class="timeline">
+  <li class="is-future"><time datetime="2026-11-23">23 nov.</time><div><h3>Rapport du Premier ministre au Roi</h3><p>Le même jour que la manifestation.{% s "lavenir-budget-roi" %}</p></div></li>
+  <li class="is-future"><time datetime="2026-11-27">27 nov.</time><div><h3>Journée « VUURWERK » (secteur socioculturel, Flandre)</h3><p>Action sectorielle annoncée, organisée en coopération avec plusieurs employeurs du secteur.{% s "sociare", "dwm-interview" %}</p></div></li>
+  <li class="is-future"><time datetime="2026-12-10">10 déc.</time><div><h3>Manifestation du non-marchand à Bruxelles</h3><p>Soins, aide sociale, culture.{% s "bx1-mobilisation" %}</p></div></li>
+  <li class="is-future"><time datetime="2027-01-01">janv. 2027</time><div><h3>Douzièmes provisoires</h3><p>Le budget 2027 s'exécute par douzièmes tant qu'aucun budget n'est voté.{% s "lalibre-douziemes" %}</p></div></li>
+</ol>
+<p>Ann Vermorgen (CSC) dit espérer annoncer des « actions plus dures » en front commun d'ici décembre{% s "dwm-interview" %}. Le mandat de grève générale de la FGTB reste lié au franchissement de lignes rouges dans un budget{% s "fgtb-actions" %}. <a href="/agenda.ics">Ajouter ces dates à votre agenda</a>.</p>
+
+<h2 id="lire">Comment lire le bilan</h2>
+<ul>
+  <li><strong>Comparez des chiffres de même origine.</strong> Police avec police (9 oct. : 30 000 ; 12 mars : 80 000), organisateurs avec organisateurs.{% s "rtbf-9oct", "rtbf-12mars" %}</li>
+  <li><strong>Mettez les incidents en proportion.</strong> Combien de personnes, où, à quelle heure, par rapport à la taille du cortège ?</li>
+  <li><strong>Ne confondez pas simultanéité et cause.</strong> Si un accord budgétaire tombe le 23, il faudra des éléments concrets (déclarations, mesures modifiées) pour l'attribuer à la pression de la rue.</li>
+  <li><strong>Regardez les mesures, pas seulement l'accord.</strong> Index, jours fériés, TVA, annualisation, contribution du capital : chaque ligne rouge doit être vérifiée une par une.</li>
+</ul>
+{% note "method", "Contribuer" %}<p>Les valeurs sont stockées dans un simple fichier de données (<code>src/_data/bilan.json</code>) du <a href="{{ site.repo }}">dépôt public</a>. Une correction ou un ajout sourcé peut être proposé par une <em>issue</em> ou une <em>pull request</em>.</p>{% endnote %}
